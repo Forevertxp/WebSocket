@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="im_dao" />
+        <module name="im_serialization" />
+        <module name="im_service" />
+        <module name="im_transport" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="im-server" target="1.7" />
+      <module name="im_dao" target="1.7" />
+      <module name="im_serialization" target="1.7" />
+      <module name="im_service" target="1.8" />
+      <module name="im_transport" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

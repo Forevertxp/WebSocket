@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/im-server.iml" filepath="$PROJECT_DIR$/im-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im_dao/im_dao.iml" filepath="$PROJECT_DIR$/im_dao/im_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im_serialization/im_serialization.iml" filepath="$PROJECT_DIR$/im_serialization/im_serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im_service/im_service.iml" filepath="$PROJECT_DIR$/im_service/im_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im_transport/im_transport.iml" filepath="$PROJECT_DIR$/im_transport/im_transport.iml" />
+    </modules>
+  </component>
+</project>
